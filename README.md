@@ -54,5 +54,8 @@ The game keeps track of how many rounds you win vs. how many the CPU wins!
 
 ---
 
-## 📁 Project Structure
+## 📁 Pictures (In case the Github Pages Link doesn't Work)
+
+![image](https://github.com/user-attachments/assets/6afa524d-4247-4c25-bc40-5d5a7a22eebb)
+![image](https://github.com/user-attachments/assets/660e87dc-456e-4a23-9987-a6c71cc2404a)
 
